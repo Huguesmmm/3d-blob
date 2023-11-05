@@ -15,17 +15,17 @@ export default function Blob() {
         if (transblob.current) {
             console.log(transblob.current);
 
-            transblob.current.position.x += 10;
+            // transblob.current.position.x += 10;
+            transblob.current.position.y -= 10;
         }
     }
 
     return (
-        <div>
+        <div className='bluebackground'>
             <Spline
                 scene="https://prod.spline.design/BKzVCK3es3jwln2y/scene.splinecode"
                 onLoad={onload}
             />
-            <button onClick={moveBlob}>Move Blob</button>
         </div>
     );
 }
