@@ -1,4 +1,4 @@
-import Blob from "./Blob";
+// import Blob from "./Blob";
 import Outspace from "./Outspace";
 import './App.css';
 
