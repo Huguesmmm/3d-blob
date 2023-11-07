@@ -25,7 +25,7 @@ While this is a really simple project, I could figure out a couple of things :
       width=200px/>
    <img src="src/assets/Readme/displaced_sphere.png"
       width=200px/>
-5. Make the color of the sphere transparant (watch out it will disapear 🫥)
+5. Make the color of the sphere transparant (watch out it will disapear 🫥)\
    <img src="src/assets/Readme/transparent_color.png"
       width=200px/>
       <img src="src/assets/Readme/transparent_blob.png"
